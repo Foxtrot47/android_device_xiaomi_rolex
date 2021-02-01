@@ -1,0 +1,29 @@
+[
+  {
+    "repository": "LineageOS/android_hardware_sony_timekeep",
+    "target_path": "hardware/sony/timekeep",
+    "remote": "github",
+    "clone-depth": "1"
+  },
+  {
+    "repository": "Foxtrot47/android_vendor_xiaomi_rolex",
+    "target_path": "vendor/xiaomi/rolex",
+    "branch": "lineage-18.1",
+    "remote": "github",
+    "clone-depth": "1"
+  },
+  { 
+    "repository": "Thagoo/platform_kernel_xiaomi_msm8917",
+    "target_path": "kernel/xiaomi/msm8917",
+    "remote": "github",
+    "branch": "lineage-18.1",
+    "clone-depth": "1"
+  },
+  { 
+    "repository": "PixelExperience/hardware_qcom_wlan",
+    "target_path": "hardware/qcom/wlan",
+    "remote": "github",
+    "branch": "eleven",
+    "clone-depth": "1"
+  }
+]
